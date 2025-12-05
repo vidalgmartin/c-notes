@@ -1,4 +1,5 @@
-// Exclude executable
+// Exclude executables
 main
 variables
 formats
+arithmetics
